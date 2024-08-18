@@ -1,2 +1,2 @@
-# react-tic-tac-toe.dev
-Created with CodeSandbox
+# Tic-React-Toe
+Classic Tic-Tac-Toe game implemented in React.js
